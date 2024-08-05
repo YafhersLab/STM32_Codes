@@ -1,0 +1,4 @@
+../Core/Src/stm32f4xx_it.c:6:6:SysTick_Handler	1
+../Core/Src/stm32f4xx_it.c:12:6:EXTI15_10_IRQHandler	2
+../Core/Src/stm32f4xx_it.c:20:6:USART2_IRQHandler	2
+../Core/Src/stm32f4xx_it.c:27:6:USART6_IRQHandler	2

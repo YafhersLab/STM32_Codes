@@ -1,0 +1,8 @@
+../Core/Src/LCD.c:5:6:LCD_Command	5
+../Core/Src/LCD.c:22:6:LCD_Init	1
+../Core/Src/LCD.c:41:6:LCD_XY	5
+../Core/Src/LCD.c:65:6:LCD_Print_Chart	1
+../Core/Src/LCD.c:71:6:LCD_Print_String	2
+../Core/Src/LCD.c:77:6:LCD_NewChar	5
+../Core/Src/LCD.c:160:6:LCD_Print_NewChar	1
+../Core/Src/LCD.c:167:6:LCD_Clear	1
